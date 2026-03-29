@@ -1,0 +1,34 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE / Editor files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+*~
+
+# Build generated files
+/build/
+/dist/
+/out/
+*.class
+*.log
+
+# Temp files
+tmp/
+temp/
+
+# Ignore large downloaded apks locally (optional, but good practice if you download them to root during development)
+*.apk
+*.zip
+*.tar.gz
+!webview_packages.json
