@@ -13,85 +13,73 @@
           "version": "134.0.6998.39",
           "min_api": 26,
           "arch": "arm32",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/134.0.6998.39_min26_arm32.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/android/134.0.6998.39_min26_arm32.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/134.0.6998.39_min26_arm32.apk"
         },
         {
           "version": "134.0.6998.39",
           "min_api": 26,
           "arch": "arm64",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/134.0.6998.39_min26_arm64.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/android/134.0.6998.39_min26_arm64.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/134.0.6998.39_min26_arm64.apk"
         },
         {
           "version": "134.0.6998.39",
           "min_api": 26,
           "arch": "x86",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/134.0.6998.39_min26_x86.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/android/134.0.6998.39_min26_x86.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/134.0.6998.39_min26_x86.apk"
         },
         {
           "version": "128.0.6613.88",
           "min_api": 26,
           "arch": "arm32",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/128.0.6613.88_min26_arm32.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/android/128.0.6613.88_min26_arm32.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/128.0.6613.88_min26_arm32.apk"
         },
         {
           "version": "128.0.6613.88",
           "min_api": 26,
           "arch": "arm64",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/128.0.6613.88_min26_arm64.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/android/128.0.6613.88_min26_arm64.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/128.0.6613.88_min26_arm64.apk"
         },
         {
           "version": "128.0.6613.88",
           "min_api": 26,
           "arch": "x86",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/128.0.6613.88_min26_x86.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/android/128.0.6613.88_min26_x86.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/128.0.6613.88_min26_x86.apk"
         },
         {
           "version": "124.0.6367.219",
           "min_api": 26,
           "arch": "arm32",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/124.0.6367.219_min26_arm32.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/android/124.0.6367.219_min26_arm32.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/124.0.6367.219_min26_arm32.apk"
         },
         {
           "version": "124.0.6367.219",
           "min_api": 26,
           "arch": "arm64",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/124.0.6367.219_min26_arm64.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/android/124.0.6367.219_min26_arm64.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/124.0.6367.219_min26_arm64.apk"
         },
         {
           "version": "124.0.6367.219",
           "min_api": 26,
           "arch": "x86",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/124.0.6367.219_min26_x86.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/android/124.0.6367.219_min26_x86.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/124.0.6367.219_min26_x86.apk"
         },
         {
           "version": "113.0.5672.136",
           "min_api": 24,
           "arch": "arm32",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/113.0.5672.136_min24_arm32.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/android/113.0.5672.136_min24_arm32.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/113.0.5672.136_min24_arm32.apk"
         },
         {
           "version": "113.0.5672.136",
           "min_api": 24,
           "arch": "arm64",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/113.0.5672.136_min24_arm64.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/android/113.0.5672.136_min24_arm64.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/113.0.5672.136_min24_arm64.apk"
         },
         {
           "version": "113.0.5672.136",
           "min_api": 24,
           "arch": "x86",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/113.0.5672.136_min24_x86.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/android/113.0.5672.136_min24_x86.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/android/113.0.5672.136_min24_x86.apk"
         }
       ]
     },
@@ -106,92 +94,79 @@
           "version": "146.0.7680.164",
           "min_api": 32,
           "arch": "arm32+64",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/146.0.7680.164_min32_arm32+64.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/google/146.0.7680.164_min32_arm32+64.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/146.0.7680.164_min32_arm32+64.apk"
         },
         {
           "version": "146.0.7680.164",
           "min_api": 32,
           "arch": "arm32",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/146.0.7680.164_min32_arm32.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/google/146.0.7680.164_min32_arm32.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/146.0.7680.164_min32_arm32.apk"
         },
         {
           "version": "146.0.7680.164",
           "min_api": 32,
           "arch": "x86",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/146.0.7680.164_min32_x86.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/google/146.0.7680.164_min32_x86.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/146.0.7680.164_min32_x86.apk"
         },
         {
           "version": "146.0.7680.164",
           "min_api": 29,
           "arch": "arm32+64",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/146.0.7680.164_min29_arm32+64.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/google/146.0.7680.164_min29_arm32+64.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/146.0.7680.164_min29_arm32+64.apk"
         },
         {
           "version": "143.0.7499.147",
           "min_api": 29,
           "arch": "arm32+64",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/143.0.7499.147_min29_arm32+64.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/google/143.0.7499.147_min29_arm32+64.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/143.0.7499.147_min29_arm32+64.apk"
         },
         {
           "version": "133.0.6943.138",
           "min_api": 26,
           "arch": "arm32+64",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/133.0.6943.138_min26_arm32+64.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/google/133.0.6943.138_min26_arm32+64.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/133.0.6943.138_min26_arm32+64.apk"
         },
         {
           "version": "133.0.6943.138",
           "min_api": 26,
           "arch": "arm32",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/133.0.6943.138_min26_arm32.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/google/133.0.6943.138_min26_arm32.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/133.0.6943.138_min26_arm32.apk"
         },
         {
           "version": "122.0.6261.64",
           "min_api": 26,
           "arch": "arm32+64",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/122.0.6261.64_min26_arm32+64.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/google/122.0.6261.64_min26_arm32+64.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/122.0.6261.64_min26_arm32+64.apk"
         },
         {
           "version": "122.0.6261.64",
           "min_api": 26,
           "arch": "arm32",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/122.0.6261.64_min26_arm32.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/google/122.0.6261.64_min26_arm32.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/122.0.6261.64_min26_arm32.apk"
         },
         {
           "version": "122.0.6261.64",
           "min_api": 26,
           "arch": "x86",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/122.0.6261.64_min26_x86.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/google/122.0.6261.64_min26_x86.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/122.0.6261.64_min26_x86.apk"
         },
         {
           "version": "113.0.5672.77",
           "min_api": 24,
           "arch": "arm32+64",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/113.0.5672.77_min24_arm32+64.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/google/113.0.5672.77_min24_arm32+64.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/113.0.5672.77_min24_arm32+64.apk"
         },
         {
           "version": "113.0.5672.77",
           "min_api": 24,
           "arch": "arm32",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/113.0.5672.77_min24_arm32.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/google/113.0.5672.77_min24_arm32.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/113.0.5672.77_min24_arm32.apk"
         },
         {
           "version": "113.0.5672.77",
           "min_api": 24,
           "arch": "x86",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/113.0.5672.77_min24_x86.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/google/113.0.5672.77_min24_x86.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/113.0.5672.77_min24_x86.apk"
         }
       ]
     },
@@ -206,71 +181,61 @@
           "version": "136.0.7103.125",
           "min_api": 26,
           "arch": "arm32+64",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/136.0.7103.125_min26_arm32+64.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/136.0.7103.125_min26_arm32+64.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/136.0.7103.125_min26_arm32+64.apk"
         },
         {
           "version": "122.0.6261.64",
           "min_api": 26,
           "arch": "arm32+64",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/122.0.6261.64_min26_arm32+64.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/122.0.6261.64_min26_arm32+64.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/122.0.6261.64_min26_arm32+64.apk"
         },
         {
           "version": "122.0.6261.64",
           "min_api": 26,
           "arch": "arm32",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/122.0.6261.64_min26_arm32.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/122.0.6261.64_min26_arm32.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/122.0.6261.64_min26_arm32.apk"
         },
         {
           "version": "122.0.6261.64",
           "min_api": 26,
           "arch": "x86",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/122.0.6261.64_min26_x86.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/122.0.6261.64_min26_x86.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/122.0.6261.64_min26_x86.apk"
         },
         {
           "version": "116.0.5845.93",
           "min_api": 24,
           "arch": "arm32+64",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/116.0.5845.93_min24_arm32+64.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/116.0.5845.93_min24_arm32+64.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/116.0.5845.93_min24_arm32+64.apk"
         },
         {
           "version": "116.0.5845.93",
           "min_api": 24,
           "arch": "arm32",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/116.0.5845.93_min24_arm32.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/116.0.5845.93_min24_arm32.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/116.0.5845.93_min24_arm32.apk"
         },
         {
           "version": "116.0.5845.93",
           "min_api": 24,
           "arch": "x86",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/116.0.5845.93_min24_x86.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/116.0.5845.93_min24_x86.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/116.0.5845.93_min24_x86.apk"
         },
         {
           "version": "106.0.5249.65",
           "min_api": 23,
           "arch": "arm32+64",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/106.0.5249.65_min23_arm32+64.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/106.0.5249.65_min23_arm32+64.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/106.0.5249.65_min23_arm32+64.apk"
         },
         {
           "version": "106.0.5249.65",
           "min_api": 23,
           "arch": "arm32",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/106.0.5249.65_min23_arm32.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/106.0.5249.65_min23_arm32.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/106.0.5249.65_min23_arm32.apk"
         },
         {
           "version": "106.0.5249.65",
           "min_api": 23,
           "arch": "x86",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/106.0.5249.65_min23_x86.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/106.0.5249.65_min23_x86.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/chrome/106.0.5249.65_min23_x86.apk"
         }
       ]
     },
@@ -285,15 +250,13 @@
           "version": "15.0.4.326",
           "min_api": 24,
           "arch": "arm32+64",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/huawei/15.0.4.326_min24_arm32+64.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/huawei/15.0.4.326_min24_arm32+64.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/huawei/15.0.4.326_min24_arm32+64.apk"
         },
         {
           "version": "14.0.0.331",
           "min_api": 29,
           "arch": "arm32+64",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/huawei/14.0.0.331_min29_arm32+64.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/huawei/14.0.0.331_min29_arm32+64.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/huawei/14.0.0.331_min29_arm32+64.apk"
         }
       ]
     },
@@ -308,29 +271,25 @@
           "version": "142-7444",
           "min_api": 29,
           "arch": "arm32",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/amazon/142-7444_min29_arm32.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/amazon/142-7444_min29_arm32.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/amazon/142-7444_min29_arm32.apk"
         },
         {
           "version": "132-6834",
           "min_api": 26,
           "arch": "arm32",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/amazon/132-6834_min26_arm32.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/amazon/132-6834_min26_arm32.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/amazon/132-6834_min26_arm32.apk"
         },
         {
           "version": "130-6723",
           "min_api": 26,
           "arch": "arm32",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/amazon/130-6723_min26_arm32.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/amazon/130-6723_min26_arm32.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/amazon/130-6723_min26_arm32.apk"
         },
         {
           "version": "118-5993",
           "min_api": 24,
           "arch": "arm32",
-          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/amazon/118-5993_min24_arm32.apk",
-          "ghproxy_url": "https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/amazon/118-5993_min24_arm32.apk"
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/amazon/118-5993_min24_arm32.apk"
         }
       ]
     }
