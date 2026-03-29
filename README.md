@@ -1,5 +1,9 @@
 # WebViewPackage
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/JonaNorman/WebViewPackage)
+![GitHub repo size](https://img.shields.io/github/repo-size/JonaNorman/WebViewPackage)
+![Vendors](https://img.shields.io/badge/vendors-AOSP_%7C_Google_%7C_Chrome_%7C_Huawei_%7C_Amazon-blue)
+
 [**English**](./README.md) | [**中文文档**](./README_zh.md)
 
 This is an open-source repository dedicated to collecting and archiving Android WebView APKs from various vendors.
