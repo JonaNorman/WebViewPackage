@@ -3,9 +3,8 @@
   "vendors": [
     {
       "vendor": "android",
-      "name": "Android AOSP WebView",
+      "name": "Android WebView",
       "package_names": [
-        "com.google.android.webview",
         "com.android.webview"
       ],
       "packages": [
@@ -149,6 +148,24 @@
           "min_api": 26,
           "arch": "x86",
           "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/122.0.6261.64_min26_x86.apk"
+        },
+        {
+          "version": "119.0.6045.53",
+          "min_api": 24,
+          "arch": "arm32+64",
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/119.0.6045.53_min24_arm32+64.apk"
+        },
+        {
+          "version": "119.0.6045.53",
+          "min_api": 24,
+          "arch": "arm32",
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/119.0.6045.53_min24_arm32.apk"
+        },
+        {
+          "version": "119.0.6045.53",
+          "min_api": 24,
+          "arch": "x86",
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/google/119.0.6045.53_min24_x86.apk"
         },
         {
           "version": "113.0.5672.77",
