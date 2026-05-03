@@ -73,6 +73,7 @@ All WebView APKs are hosted on the [Releases](https://github.com/JonaNorman/WebV
 | :--- | :---: | :--- | :--- |
 | 15.0.4.326 | API 24 (Android 7.0) | [arm32+64](https://github.com/JonaNorman/WebViewPackage/releases/download/huawei/15.0.4.326_min24_arm32+64.apk) | [arm32+64](https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/huawei/15.0.4.326_min24_arm32+64.apk) |
 | 14.0.0.331 | API 29 (Android 10) | [arm32+64](https://github.com/JonaNorman/WebViewPackage/releases/download/huawei/14.0.0.331_min29_arm32+64.apk) | [arm32+64](https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/huawei/14.0.0.331_min29_arm32+64.apk) |
+| 11.0.6.310 | API 21 (Android 5) | [arm32+64](https://github.com/JonaNorman/WebViewPackage/releases/download/huawei/11.0.6.310_min21_arm32+64.apk) | [arm32+64](https://ghproxy.net/https://github.com/JonaNorman/WebViewPackage/releases/download/huawei/11.0.6.310_min21_arm32+64.apk) |
 
 ### 🛒 Amazon WebView
 - **Tag:** [`amazon`](https://github.com/JonaNorman/WebViewPackage/releases/tag/amazon)
