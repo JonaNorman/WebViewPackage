@@ -274,6 +274,12 @@
           "min_api": 29,
           "arch": "arm32+64",
           "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/huawei/14.0.0.331_min29_arm32+64.apk"
+        },
+        {
+          "version": "11.0.6.310",
+          "min_api": 21,
+          "arch": "arm32+64",
+          "url": "https://github.com/JonaNorman/WebViewPackage/releases/download/huawei/11.0.6.310_min21_arm32+64.apk"
         }
       ]
     },
